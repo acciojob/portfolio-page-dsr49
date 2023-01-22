@@ -1,2 +1,12 @@
-
+h1 {
+        position: relative;
+        top: 18;
+        left: 10;
+      }
+      img {
+        float: left;
+      }
+      section#skills  {
+        margin-top: 150px;
+      }
 /* Your CSS Code here. */
